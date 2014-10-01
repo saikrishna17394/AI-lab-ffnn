@@ -1,0 +1,42 @@
+
+0)
+
+Learn rate              : 0.1
+momentum                : 0.8
+Total correct           : 66
+Total wrong             : 34
+Number of iterations    : 93133
+
+
+1)
+
+Learn rate              : 0.1
+momentum                : 0.8
+Total correct           : 63
+Total wrong             : 37
+Number of iterations    : 500287
+
+
+2)
+
+Learn rate              : 0.1
+momentum                : 0.8
+Total correct           : 60
+Total wrong             : 40
+Number of iterations    : 500287
+
+3)
+
+Learn rate              : 0.1
+momentum                : 0.8
+Total correct           : 63
+Total wrong             : 36
+Number of iterations    : 496756
+
+4)
+
+Learn rate              : 0.1
+momentum                : 0.8
+Total correct           : 61
+Total wrong             : 38
+Number of iterations    : 123292

@@ -1,0 +1,97 @@
+
+
+Learn rate              : 0.1
+momentum                : 0.8
+Total correct           : 401
+Total wrong             : 0
+Number of iterations    : 15661
+
+
+
+Learn rate              : 0.1
+momentum                : 0.8
+Total correct           : 400
+Total wrong             : 0
+Number of iterations    : 15676
+
+
+Learn rate              : 0.1
+momentum                : 0.8
+Total correct           : 400
+Total wrong             : 0
+Number of iterations    : 15676
+
+Learn rate              : 0.1
+momentum                : 0.8
+Total correct           : 400
+Total wrong             : 0
+Number of iterations    : 15676
+
+Learn rate              : 0.1
+momentum                : 0.8
+Total correct           : 400
+Total wrong             : 0
+Number of iterations    : 15676
+
+
+
+Iris Test Data :
+
+Learn rate              : 0.1
+momentum                : 0.8
+Total correct           : 27
+Total wrong             : 3
+Number of iterations    : 26521
+
+Learn rate              : 0.1
+momentum                : 0.8
+Total correct           : 29
+Total wrong             : 1
+Number of iterations    : 101881
+
+Learn rate              : 0.1
+momentum                : 0.8
+Total correct           : 29
+Total wrong             : 1
+Number of iterations    : 593161
+
+Learn rate              : 0.1
+momentum                : 0.8
+Total correct           : 24
+Total wrong             : 6
+Number of iterations    : 20161
+
+
+Learn rate              : 0.1
+momentum                : 0.8
+Total correct           : 29
+Total wrong             : 1
+Number of iterations    : 66961
+
+
+Monk Test Data :
+
+Data 1 :
+
+Learn rate              : 0.2
+momentum                : 0.7
+Total correct           : 432
+Total wrong             : 0
+Number of iterations    : 186249
+
+Data 2 :
+
+Learn rate              : 0.2
+momentum                : 0.7
+Total correct           : 315
+Total wrong             : 117
+Number of iterations    : 2000116
+
+Data 3 :
+
+Learn rate              : 0.2
+momentum                : 0.7
+Total correct           : 392
+Total wrong             : 40
+Number of iterations    : 321349
+

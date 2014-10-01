@@ -1,0 +1,54 @@
+---------------- Team Members ------------------
+
+Mandagiri Sai Krishna 		110050059
+Sachin Chandra				110050061
+Routhu Kiran Kumar			110050069
+Rohith Kishan 				110050071
+
+------------------------------------------------
+
+1)
+
+Learn rate             :  0.1
+Momentum               :  0.8
+Total correct          :  447
+Total wrong            :  51
+Number of iterations   :  272611
+
+
+2)
+
+Learn rate             :  0.2
+Momentum               :  0.7
+Total correct          :  448
+Total wrong            :  50
+Number of iterations   :  366211
+
+3)
+Learn rate              : 0.2
+momentum                : 0.6
+Total correct           : 447
+Total wrong             : 51
+Number of iterations    : 255451
+
+4)
+Learn rate              : 0.2
+momentum                : 0.2
+Total correct           : 447
+Total wrong             : 51
+Number of iterations    : 413011
+
+5)
+Learn rate              : 0.4
+momentum                : 0.4
+Total correct           : 447
+Total wrong             : 51
+Number of iterations    : 218791
+
+6)
+Learn rate              : 0.8
+momentum                : 0.1
+Total correct           : 448
+Total wrong             : 50
+Number of iterations    : 468391
+
